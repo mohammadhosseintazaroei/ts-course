@@ -1,1 +1,2 @@
 the first day = 4
+the second day = 7
